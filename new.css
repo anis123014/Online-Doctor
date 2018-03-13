@@ -1,0 +1,159 @@
+
+#foot{
+	text-align: center;
+	height: 30px;
+	width: 1100px;
+	overflow: hidden;
+	background-color: rgb(23,129,145);
+	color: white;
+	font-size: 20px;
+	font-style: italic;
+}
+#logo{
+	width: 214px;
+	height: 97px;
+	background-color:green;
+	float: left;
+	//background-image: url(images/logo.jpg);
+	margin-top: -85px;
+}
+#milo{
+	height: 100px;
+	width: 300px;
+	
+	background: skyblue;
+	margin-top: 100px;
+	margin-left: 100px;
+
+}
+#banner { 
+    margin: 0 auto; 
+    position: relative; 
+    width: 1100px; 
+    height: 400px;  
+}
+
+#banner > div { 
+    position: absolute; 
+    overflow: hidden;
+}
+#box{
+	margin: 0 auto;
+	background-image:url(images/pp.jpg);
+	background-repeat: no-repeat;
+	width: 1100px;
+	height: 400px; 
+	font-size: 25px;
+	overflow: hidden;
+	text-align: left;
+}
+#tebox{
+	margin-left:570px; 
+	margin-top: -320px;
+	overflow: hidden;
+}
+#label{
+	margin-left: 330px;
+	overflow: hidden;
+	color: rgb(232,218,8);
+	font-style: italic;
+}
+.buttonn1{
+	border-radius: 10px;
+	background-color: #0099ff;
+	border: none;
+	color: white;
+	margin-top: 25px;
+	margin-left: 470px;
+	height: 40px;
+	width: 100px;
+	font-size: 20px;
+	border: 1px solid violet;
+
+}
+.buttonn1:hover{
+	opacity: .7;
+}
+.buttonn2{
+	border-radius: 10px;
+	background-color: #0099ff;
+	border: none;
+	color: white;
+	height: 40px;
+	width: 100px;
+	font-size: 20px;
+	border: 1px solid violet;
+}
+.buttonn2:hover{
+	opacity: .7;
+}
+.tox{
+	height: 23px;
+	width: 250px;
+	border-radius: 5px;
+}
+#speech{
+	height: 400px;
+	width: 1100px;
+	margin: 0 auto;
+	background-color:white;
+	font-size: 30px;
+	overflow: hidden;
+	text-align: center;
+}
+#subspeech{
+	height: 500px;
+	width: 700px;
+	margin: 0 auto;
+	margin-top: 30px;
+	overflow: hidden;
+	color: black;
+}
+#inner{
+	margin-left: 270px;
+	margin-top: 100px;
+	height: 230px;
+	width: 600px;
+	text-align: left;
+	font-size: 25px;
+	overflow: hidden;
+}
+#a{
+	margin-left: 35px;
+	color: yellow;
+	font-style: italic;
+}
+#aa{
+	padding: 11px;
+	margin-left: 210px;
+	margin-top: -40px;
+	font-style: italic;
+	color: blue;
+}
+#rox{
+	margin: 0 auto;
+	background-color:rgb(91,192,222);
+	width: 1100px;
+	height: 400px; 
+	font-size: 25px;
+	overflow: hidden;
+	text-align: left;
+}
+#innerbox{
+	margin-left: 10px;
+	margin-top: 100px;
+	height: 300px;
+	width: 900px;
+	overflow: hidden;
+}
+
+#teboxx{
+	margin-left: 520px;
+	margin-top: -130px;
+
+}
+form input{
+	font-size: 15px;
+	color: green;
+}
+

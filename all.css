@@ -1,0 +1,4 @@
+.sidebar{float:right; width:330px; height:300px; background:#EDEDED;}
+.sidebar ul{list-style:none}
+.sidebar ul li{padding:10px; border-bottom:2px solid; color:#ddd;}
+.sidebar ul li a{text-decoration:none; color:#000;}
